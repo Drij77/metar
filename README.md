@@ -1,6 +1,9 @@
 # metar
 
 ## install requirements mentioned in requirements.txt
+### By creatingvirtual enviroment like python3 -m venv <name_of_virtualenv> and activate it by source <name_of_virtualenv>/bin/activate
+### pip install -r requirements.txt
+### To run application :- python manage.py runserver
 
 ## Install redis in windows 
 ### Download zip file from https://github.com/tporadowski/redis/releases and run exe file and cli.exe file once connected to in cli it will show like 127.0.0.1:6379>
